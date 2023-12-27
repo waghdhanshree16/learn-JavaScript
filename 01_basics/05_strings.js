@@ -22,7 +22,7 @@ const anotherString = gameName.slice(-8, 4)
 console.log(anotherString);
 
 const newStringOne = "  dhara  "
-console.log(newStringOne);
+console.log(newStringOne);git 
 
 console.log(newStringOne.trim());
 
