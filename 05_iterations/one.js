@@ -44,5 +44,5 @@ for (let index = 1; index <= 20; index++) {
         console.log('Detected 5');
         continue;
     }
-    console.log('value of i is ${index}')
+    console.log(`value of i is ${index}`)
 }
